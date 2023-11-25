@@ -3,7 +3,11 @@ print("Welcome to my computer quiz!")
 playing = input("Do you want to play?")
 print(playing)
 
-if playing.lower() != "yes":
+text = "Tim IS Great!"
+
+print(text.lower())
+
+if playing.lower() != "yes": 
     quit()
 
 print("Okey! Let's play :)")
@@ -26,3 +30,4 @@ if answer.lower() == "power supply":
 else:
     print("Incorrect!")    
     
+   
