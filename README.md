@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Commit emojis 
 
-GitHub Copilot: Here are some emoji references for different types of commits:
+Here are some emoji references for different types of commits:
 
 - Bug fixes: :bug: `:bug: Fix issue with game scoring`
 - New features: :sparkles: `:sparkles: Add high score feature`
