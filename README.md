@@ -1,6 +1,6 @@
 # Mini-Python-Projects
 Mini Python Projects 
-GitHub Copilot: # Choose Your Own Adventure Game
+# Choose Your Own Adventure Game
 
 This is a simple implementation of a text-based "Choose Your Own Adventure" game in Python. The game presents the user with a series of choices and the game's story changes based on the user's decisions.
 
