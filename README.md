@@ -23,7 +23,7 @@ Future improvements could include adding more questions, implementing a high sco
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Commit emojis 
 
@@ -33,5 +33,5 @@ GitHub Copilot: Here are some emoji references for different types of commits:
 - New features: :sparkles: `:sparkles: Add high score feature`
 - Errors: :x: `:x: Handle input errors`
 - Refactoring: :hammer: `:hammer: Refactor input handling`
-```
+
 
